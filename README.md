@@ -22,4 +22,7 @@ stow -D --dotfiles ide-nvim-lua
 ```
 
 ## Key Mappings
-
+## NeoVIM for javascript and typescript development
+```
+npm install -g typescript typescript-language-server eslint prettier
+```
